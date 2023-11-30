@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+E:\source\repos\АСД2_Лаб_2\АСД2_Лаб_2\LinkedList.cpp(99): error C4789: buffer 'tempElem' of size 16 bytes will be overrun; 8 bytes will be written starting at offset 72
+  All 314 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed

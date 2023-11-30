@@ -1,0 +1,9 @@
+﻿  LinkedList.cpp
+  main.cpp
+F:\saves 1 krs\АСД2_Лаб_2\АСД2_Лаб_2\main.cpp(21,36): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+F:\saves 1 krs\АСД2_Лаб_2\АСД2_Лаб_2\main.cpp(227,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\saves 1 krs\АСД2_Лаб_2\АСД2_Лаб_2\main.cpp(232,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\saves 1 krs\АСД2_Лаб_2\АСД2_Лаб_2\main.cpp(264,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Data.cpp
+  Generating Code...
+  АСД2_Лаб_2.vcxproj -> F:\saves 1 krs\АСД2_Лаб_2\x64\Debug\АСД2_Лаб_2.exe
